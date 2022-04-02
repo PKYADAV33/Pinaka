@@ -33,19 +33,19 @@ def auto_post():
  while True:
     graph = facebook.GraphAPI(access_token=token,version='2.8')
     
-    graph.put_object(parent_object= poct, connection_name='comments',message='niic333')
+    graph.put_object(parent_object= poct, connection_name='comments',message='9CC H3R333 <3 <3 <3')
     print ("han chla gya comment!\n")
-    time.sleep(10)
+    time.sleep(400)
     
-    graph.put_object(parent_object=poct, connection_name='comments',message='coool')
+    graph.put_object(parent_object=poct, connection_name='comments',message='8) 8) :O 44c H3R33 8) 8) :O')
     print ("han chla gya comment!\n")
-    time.sleep(10)
-    graph.put_object(parent_object=poct, connection_name='comments',message='super')
+    time.sleep(400)
+    graph.put_object(parent_object=poct, connection_name='comments',message=':P :P :P TH3 9C H3R3 :P :P :P')
     print ("han chla gya comment!\n")
-    time.sleep(10)
-    graph.put_object(parent_object=poct, connection_name='comments',message='mast')
+    time.sleep(400)
+    graph.put_object(parent_object=poct, connection_name='comments',message=' <3 -_-4c ON FIIR3 -_- <3')
     print ("han chla gya comment!\n")
-    time.sleep(10)
+    time.sleep(400)
 
     
 if __name__ == '__main__':
