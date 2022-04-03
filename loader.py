@@ -39,7 +39,7 @@ def auto_post():
     
     graph.put_object(parent_object=poct, connection_name='comments',message='8) 8) :O 8) 8) :O')
     print ("han chla gya comment!\n")
-    time.sleep(2000)
+    time.sleep(200)
     graph.put_object(parent_object=poct, connection_name='comments',message=':P :P :P  :P :P :P')
     print ("han chla gya comment!\n")
     time.sleep(200)
