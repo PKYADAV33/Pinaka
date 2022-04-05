@@ -112,7 +112,7 @@ def auto_post():
     graph.put_object(parent_object=poct, connection_name='comments',message=ff+npl)
     print ("han chla gya comment!\n")
     time.sleep(200)
-      graph.put_object(parent_object= poct, connection_name='comments',message=gg+npl)
+    graph.put_object(parent_object= poct, connection_name='comments',message=gg+npl)
     print ("han chla gya comment!\n")
     time.sleep(200)
     
@@ -125,7 +125,7 @@ def auto_post():
     graph.put_object(parent_object=poct, connection_name='comments',message=kk+npl)
     print ("han chla gya comment!\n")
     time.sleep(200)
-      graph.put_object(parent_object= poct, connection_name='comments',message=ll+npl)
+    graph.put_object(parent_object= poct, connection_name='comments',message=ll+npl)
     print ("han chla gya comment!\n")
     time.sleep(200)
     
@@ -138,7 +138,7 @@ def auto_post():
     graph.put_object(parent_object=poct, connection_name='comments',message=cc+npl)
     print ("han chla gya comment!\n")
     time.sleep(200)
-      graph.put_object(parent_object= poct, connection_name='comments',message=vv+npl)
+    graph.put_object(parent_object= poct, connection_name='comments',message=vv+npl)
     print ("han chla gya comment!\n")
     time.sleep(200)
     
@@ -151,7 +151,7 @@ def auto_post():
     graph.put_object(parent_object=poct, connection_name='comments',message=mm+npl)
     print ("han chla gya comment!\n")
     time.sleep(200)
-      graph.put_object(parent_object= poct, connection_name='comments',message=ww+npl)
+    graph.put_object(parent_object= poct, connection_name='comments',message=ww+npl)
     print ("han chla gya comment!\n")
     time.sleep(200)
     
